@@ -76,7 +76,7 @@ export default function Footer() {
                         <a href="https://hiteshchoudhary.com/" className="hover:underline">
                             hiteshchoudhary
                         </a>
-                        . All Rights Reserved.
+                        . All Rights Reserved.Aditya Panday !!!!!!!!!
                     </span>
                     <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
                         <Link to="#" className="text-gray-500 hover:text-gray-900">
